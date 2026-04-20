@@ -349,6 +349,6 @@ export class MarketingDashboard extends Component {
     }
 }
 
-MarketingDashboard.template = "dashboard_metricas_mail.MarketingDashboard";
+MarketingDashboard.template = "berpia_dashboard_metrics_mail.MarketingDashboard";
 
-registry.category("actions").add("dashboard_metricas_mail.dashboard", MarketingDashboard);
+registry.category("actions").add("berpia_dashboard_metrics_mail.dashboard", MarketingDashboard);

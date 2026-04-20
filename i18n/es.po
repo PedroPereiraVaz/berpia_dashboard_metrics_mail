@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* dashboard_metricas_mail
+# 	* berpia_dashboard_metrics_mail
 #
 msgid ""
 msgstr ""
@@ -15,27 +15,27 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Active Contacts"
 msgstr "Contactos activos"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "All Campaigns"
 msgstr "Todas las campañas"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "All Mailings"
 msgstr "Todos los envíos"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid ""
 "Average Invoiced Revenue generated per sent email (Total Revenue / Sent "
 "Emails)."
@@ -43,213 +43,213 @@ msgstr ""
 "Ingresos facturados promedio por correo enviado (Ingresos totales / Correos "
 "enviados)."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Blacklisted"
 msgstr "En lista negra"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Bounced"
 msgstr "Rebotados"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Campaign Stages"
 msgstr "Etapas de campaña"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Click Rate (CTR)"
 msgstr "Tasa de clics (CTR)"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Click-to-Open (CTOR)"
 msgstr "Clic de apertura (CTOR)"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Clicks"
 msgstr "Clics"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Clicks:"
 msgstr "Clics:"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Conv. Rate"
 msgstr "Tasa de conv."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Conversion"
 msgstr "Conversión"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Created by"
 msgstr "Creado por"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Created on"
 msgstr "Creado el"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Dashboard de metricas"
 msgstr "Tablero de métricas"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Deliverability & Quality"
 msgstr "Entregabilidad y calidad"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Delivered"
 msgstr "Entregados"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Display Name"
 msgstr "Nombre mostrado"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Email Marketing Dashboard"
 msgstr "Tablero de marketing por correo"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Emails rejected by the recipient's mail server."
 msgstr "Correos rechazados por el servidor de correo del destinatario."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Emails successfully delivered to the recipient."
 msgstr "Correos entregados exitosamente al destinatario."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Engagement"
 msgstr "Interacción"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Exception"
 msgstr "Excepción"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "ID"
 msgstr "ID"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Last Updated by"
 msgstr "Última actualización por"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Last Updated on"
 msgstr "Última actualización el"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "List Health"
 msgstr "Salud de la lista"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Marketing Dashboard Handler"
 msgstr "Gestor del tablero de marketing"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Most popular links ranked by total global clicks."
 msgstr "Enlaces más populares clasificados por clics globales totales."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "New (30d)"
 msgstr "Nuevos (30d)"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "No campaign stages defined."
 msgstr "No hay etapas de campaña definidas."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Number of Quotations and Unbilled Orders in pipeline."
 msgstr "Número de presupuestos y pedidos no facturados en proceso."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Number of orders that have been fully Invoiced."
 msgstr "Número de pedidos que han sido completamente facturados."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Of those who opened, what % clicked. Indicates content effectiveness."
 msgstr "De los que abrieron, qué % hizo clic. Indica la efectividad del contenido."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Open Rate"
 msgstr "Tasa de apertura"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Opens"
 msgstr "Aperturas"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Percentage of recipients who clicked at least one link."
 msgstr "Porcentaje de destinatarios que hicieron clic en al menos un enlace."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid ""
 "Percentage of recipients who completed a purchase (Invoiced Orders / Sent "
 "Emails)."
@@ -257,141 +257,141 @@ msgstr ""
 "Porcentaje de destinatarios que completaron una compra (Pedidos facturados / "
 "Correos enviados)."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Percentage of recipients who opened the email."
 msgstr "Porcentaje de destinatarios que abrieron el correo."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Percentage of recipients who replied to the email."
 msgstr "Porcentaje de destinatarios que respondieron al correo."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Potential Conv."
 msgstr "Conv. potencial"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Potential Conversions"
 msgstr "Conversiones potenciales"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Potential Rev."
 msgstr "Ingresos pot."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Rate:"
 msgstr "Tasa:"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Replies"
 msgstr "Respuestas"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Reply Rate"
 msgstr "Tasa de respuesta"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Rev. per Email"
 msgstr "Ingresos por correo"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Sent"
 msgstr "Enviados"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "System errors or configuration issues preventing sending."
 msgstr "Errores del sistema o problemas de configuración que impiden el envío."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Top 5 Campaigns ranked by Total Invoiced Revenue."
 msgstr "Las 5 mejores campañas clasificadas por ingresos totales facturados."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Top 5 Mailings ranked by Total Invoiced Revenue."
 msgstr "Los 5 mejores envíos clasificados por ingresos totales facturados."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Top Campaigns"
 msgstr "Mejores campañas"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Top Clicked Links"
 msgstr "Enlaces más clicados"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Top Mailings"
 msgstr "Mejores envíos"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Total"
 msgstr "Total"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Total Contacts"
 msgstr "Contactos totales"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Total Conv."
 msgstr "Conv. totales"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Total Invoiced Revenue from confirmed orders linked to mailings."
 msgstr "Ingresos totales facturados de pedidos confirmados vinculados a envíos."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Total Revenue"
 msgstr "Ingresos totales"
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid "Total emails sent minus exceptions."
 msgstr "Total de correos enviados menos excepciones."
 
-#. module: dashboard_metricas_mail
+#. module: berpia_dashboard_metrics_mail
 #. odoo-javascript
-#: code:addons/dashboard_metricas_mail/static/src/dashboard/marketing_dashboard.xml:0
+#: code:addons/berpia_dashboard_metrics_mail/static/src/dashboard/marketing_dashboard.xml:0
 msgid ""
 "Total value of Draft/Sent Quotations and Unbilled Orders (Not yet Invoiced)."
 msgstr ""

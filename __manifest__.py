@@ -63,7 +63,7 @@
     ],
     "assets": {
         "web.assets_backend": [
-            "dashboard_metricas_mail/static/src/dashboard/**/*",
+            "berpia_dashboard_metrics_mail/static/src/dashboard/**/*",
         ],
     },
     "images": [],
