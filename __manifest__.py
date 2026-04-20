@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Email Marketing Dashboard',
-    'version': '1.0',
-    'author': 'Pedro Pereira Vaz',
-    'website': 'https://wavext.io',
-    'category': 'Marketing/Email Marketing',
-    'summary': 'Dashboard para metricas de Email Marketing',
-    'description': '''
+    "name": "BerpIA - Email Marketing Dashboard",
+    "version": "18.0.1.0.0",
+    "category": "BerpIA",
+    "author": "Pedro Pereira Vaz",
+    "website": "https://wavext.io",
+    "summary": "Dashboard para metricas de Email Marketing",
+    "description": """
         Dashboard de Métricas de Email Marketing
         ========================================
         
@@ -49,26 +49,26 @@
         2. Vaya a Email Marketing > Informes > Dashboard de Métricas.
         
         No requiere configuración adicional. Se integra automáticamente.
-    ''',
-    'depends': [
-        'base',
-        'mass_mailing',
-        'web',
-        'utm',
-        'sale',
+    """,
+    "depends": [
+        "base",
+        "mass_mailing",
+        "web",
+        "utm",
+        "sale",
     ],
-    'data': [
-        'security/ir.model.access.csv',
-        'views/marketing_dashboard_menus.xml',
+    "data": [
+        "security/ir.model.access.csv",
+        "views/marketing_dashboard_menus.xml",
     ],
-    'assets': {
-        'web.assets_backend': [
-            'dashboard_metricas_mail/static/src/dashboard/**/*',
+    "assets": {
+        "web.assets_backend": [
+            "dashboard_metricas_mail/static/src/dashboard/**/*",
         ],
     },
-    'images': [],
-    'installable': True,
-    'application': False,
-    'auto_install': False,
-    'license': 'LGPL-3',
+    "images": [],
+    "installable": True,
+    "application": False,
+    "auto_install": False,
+    "license": "LGPL-3",
 }
